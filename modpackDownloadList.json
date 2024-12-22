@@ -16,8 +16,18 @@
         "min_version": "0.2.5",
         "recommended": "",
         "logo": "https://raw.githubusercontent.com/Felixelpapu25/insaneVersion/main/update.png",
-        "author": "insaneTeam",
+        "author": "",
         "fileName": "isaBm.zip",
         "updated": "IsaBm update"
+    }
+       {
+        "link": "https://gamebanana.com/dl/1240467",
+        "modpack": "Week1 Shaders!",
+        "min_version": "3.4F",
+        "recommended": "YES",
+        "logo": "https://raw.githubusercontent.com/Felixelpapu25/insaneVersion/main/update.png",
+        "author": "Sax_sh3",
+        "fileName": "isaBm.zip",
+        "updated": "BW1S"
     }
 ]
