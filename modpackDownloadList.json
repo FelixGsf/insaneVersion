@@ -9,7 +9,6 @@
         "fileName": "freeXpansion.zip",
         "updated": "FreePlay bonusSongs"
     },
-
     {
         "link": "https://gamebanana.com/dl/1240467",
         "modpack": "isaBmUpdate",
@@ -20,7 +19,7 @@
         "fileName": "isaBm.zip",
         "updated": "IsaBm update"
     },
-       {
+    {
         "link": "https://github.com/FelixGsf/BSW1/releases/download/W1BS/BSW1.zip",
         "modpack": "Week1 Shaders!",
         "min_version": "3.4F",
