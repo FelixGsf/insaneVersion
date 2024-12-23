@@ -35,7 +35,7 @@
       {
         "link": "https://github.com/FelixGsf/Public-source-INSANE-DAYS/releases/download/Full-weeks/completed.zip",
         "modpack": "Completed_game",
-         "descripcion": "Te da pereza desbloquear todo el juego? este addon desbloquea todas las weeks!",
+         "descripcion": "Te da pereza desbloquear todo el juego? este addon desbloquea todas las weeks!\nNOTA: este addon sobreescribe los archivos originales.",
         "min_version": "3.4F",
         "recommended": "YES",
         "logo": "https://raw.githubusercontent.com/Felixelpapu25/insaneVersion/main/update.png",
