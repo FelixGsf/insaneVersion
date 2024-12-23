@@ -31,5 +31,16 @@
         "author": "Sax_sh3",
         "fileName": "isaBm.zip",
         "updated": "BW1S"
-    }
+    },
+      {
+        "link": "https://github.com/FelixGsf/Public-source-INSANE-DAYS/releases/download/Full-weeks/Full_weeks.zip",
+        "modpack": "Completed_game",
+         "descripcion": "Te da pereza desbloquear todo el juego? este addon desbloquea todas las weeks!",
+        "min_version": "3.4F",
+        "recommended": "YES",
+        "logo": "https://raw.githubusercontent.com/Felixelpapu25/insaneVersion/main/update.png",
+        "author": "MariOG_2",
+        "fileName": "COMPLETED.zip",
+        "updated": "Completed Game ADDON"
+   }
 ]
